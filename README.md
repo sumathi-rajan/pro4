@@ -1,5 +1,6 @@
 # Implementing an application with robust high availability measures.
-![Untitled](https://github.com/sumathi-rajan/pro4/assets/150107821/1f289a74-a979-4d2b-ad55-05520fdb74f8)
+![Untitled](https://github.com/sumathi-rajan/pro4/assets/150107821/b2f71c97-de64-49cb-b9b2-5bf4ac28cf78)
+
 ## step 1
 Provisioning two EC2 instances across separate Availability Zones for increased resilience and fault tolerance.Configuring the fundamental settings, including selecting the appropriate AMI based on application requirements, specifying the instance type, defining network settings, and providing user data for basic deployment.
 ## step 2
