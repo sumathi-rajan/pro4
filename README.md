@@ -9,3 +9,4 @@ Within the context of the Application Load Balancer (ALB), it is essential to es
 In this project, we deploy two distinct security groups—one for instances and another for the Elastic Load Balancer (ELB). The security group assigned to the ELB permits incoming HTTP traffic from the internet, while the security group for instances allows traffic exclusively from the Elastic Load Balancer.
 ## step 5
 Upon accessing the DNS of the load balancer, incoming traffic seamlessly directs to the deployed instances, culminating in a smooth user experience.
+![Untitled](https://github.com/sumathi-rajan/pro4/assets/150107821/1f289a74-a979-4d2b-ad55-05520fdb74f8)
